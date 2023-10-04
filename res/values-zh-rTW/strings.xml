@@ -1,0 +1,40 @@
+
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="btnCus">顧客</string>
+    <string name="btnStaff">員工</string>
+    <string name="askIdentity">請選擇你的身份：</string>
+    <string name="hamburger">漢堡類</string>
+    <string name="beef">牛肉漢堡 NT.66</string>
+    <string name="pork">豬排漢堡 NT.63</string>
+    <string name="fish">魚排漢堡 NT.60</string>
+    <string name="drink">飲料類</string>
+    <string name="cola">可樂 NT.30</string>
+    <string name="sprite">雪碧 NT.30</string>
+    <string name="tea">檸檬紅茶 NT.30</string>
+    <string name="dessert">點心類</string>
+    <string name="fries">薯條 NT.50</string>
+    <string name="chicken">雞塊 NT.50</string>
+    <string name="applepie">蘋果派 NT.50</string>
+    <string name="name">姓名：</string>
+    <string name="phone">電話：</string>
+    <string name="mail">信箱</string>
+    <string name="clear">清除</string>
+    <string name="sure">確定</string>
+    <string name="inputName">請輸入姓名</string>
+    <string name="registration">註冊畫面</string>
+    <string name="account">帳號：</string>
+    <string name="password">密碼：</string>
+    <string name="inputAccount">請輸入帳號</string>
+    <string name="inputPassWord">請輸入密碼</string>
+    <string name="login">登入畫面</string>
+    <string name="registerbtn">註冊</string>
+    <string name="loginBtn">登入</string>
+    <string name="staffPage">員工介面</string>
+    <string name="checkMenu">查看菜單</string>
+    <string name="checkOrder">查看訂單</string>
+    <string name="HomePage">回主畫面</string>
+    <string name="list">舊｜｜｜｜｜｜｜｜新</string>
+    <string name="cancelOrder">取消訂單</string>
+    <string name="previousPage">上一頁</string>
+</resources>

@@ -1,0 +1,40 @@
+
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="btnCus">Customer</string>
+    <string name="btnStaff">Staff</string>
+    <string name="askIdentity">Please select your identity:</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="beef">Beef Burger NT.66</string>
+    <string name="pork">Pork Chop Burger NT.63</string>
+    <string name="fish">Fish Burger NT.60</string>
+    <string name="drink">Drink</string>
+    <string name="cola">Cola NT.30</string>
+    <string name="sprite">Sprite NT.30</string>
+    <string name="tea">Lemon black tea NT.30</string>
+    <string name="dessert">Dessert</string>
+    <string name="fries">Fries NT.50</string>
+    <string name="chicken">Chicken nuggets NT.50</string>
+    <string name="applepie">Applepie NT.50</string>
+    <string name="name">Name：</string>
+    <string name="phone">Phone：</string>
+    <string name="mail">Email：</string>
+    <string name="clear">Clear</string>
+    <string name="sure">Sure</string>
+    <string name="inputName">Please input the name</string>
+    <string name="registration">Registration page</string>
+    <string name="account">Account：</string>
+    <string name="password">Password：</string>
+    <string name="inputAccount">Please enter your account</string>
+    <string name="inputPassWord">Please enter password</string>
+    <string name="login">Login Page</string>
+    <string name="registerbtn">Register</string>
+    <string name="loginBtn">Login</string>
+    <string name="staffPage">Staff Page</string>
+    <string name="checkMenu">Check Menu</string>
+    <string name="checkOrder">Check Order</string>
+    <string name="HomePage">To Homepage</string>
+    <string name="list">old｜｜｜｜｜｜｜ new</string>
+    <string name="cancelOrder">Cancel Order</string>
+    <string name="previousPage">Previous Page</string>
+</resources>

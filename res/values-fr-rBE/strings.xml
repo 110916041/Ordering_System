@@ -1,0 +1,40 @@
+
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="btnCus">Cliente</string>
+    <string name="btnStaff">Personnelle</string>
+    <string name="askIdentity">Veuillez sélectionner votre identité :</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="beef">Burger de boeuf NT.66</string>
+    <string name="pork">Burger de côtelettes de porc NT.63</string>
+    <string name="fish">Hamburger de poisson NT.60</string>
+    <string name="drink">Boissons</string>
+    <string name="cola">Cola NT.30</string>
+    <string name="sprite">Lutin NT.30</string>
+    <string name="tea">Thé rouge au citron NT.30</string>
+    <string name="dessert">Dessert</string>
+    <string name="fries">Frites NT.50</string>
+    <string name="chicken">Nuggets de poulet NT.50</string>
+    <string name="applepie">Tarte aux pommes NT.50</string>
+    <string name="name">Nom：</string>
+    <string name="phone">Téléphone：</string>
+    <string name="mail">Boites aux lettres:</string>
+    <string name="clear">Nettoyer</string>
+    <string name="sure">Sûr</string>
+    <string name="inputName">" Veuillez saisir votre nom"</string>
+    <string name="registration">Page d\'inscription</string>
+    <string name="account">Compte：</string>
+    <string name="password">le mot de passe：</string>
+    <string name="inputAccount">Entrez le numéro de compte</string>
+    <string name="inputPassWord">Entrer le mot de passe</string>
+    <string name="login">Page de connexion</string>
+    <string name="registerbtn">S\'inscrire</string>
+    <string name="loginBtn">Connexion</string>
+    <string name="staffPage">Page du personnel</string>
+    <string name="checkMenu">Afficher le menu</string>
+    <string name="checkOrder">Vérifier la commande</string>
+    <string name="HomePage">Vers la page d\'accueil</string>
+    <string name="list">old ｜｜｜｜｜｜｜｜ new</string>
+    <string name="cancelOrder">annuler la commande</string>
+    <string name="previousPage">page précédente</string>
+</resources>
